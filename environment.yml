@@ -1,0 +1,7 @@
+name: applied-programming-midterm
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.12.13
+  - pip=26.2.1
